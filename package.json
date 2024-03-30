@@ -1,6 +1,6 @@
 {
   "name": "prismlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colorful and customizable logging for Node.js",
   "main": "module/index.js",
   "scripts": {
