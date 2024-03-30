@@ -53,9 +53,9 @@ Example:
 prismlog.success({ name: "Deployment", description: "Deployment successful", showDate: false});
 ```
 ### With Date
-![Sample](https://prnt.sc/Zz1lpmxC1mE8)
+![Sample](https://media.discordapp.net/attachments/992392506266366042/1223739464355020980/Screenshot_1.png?ex=661af330&is=66087e30&hm=8bf8b6eab1de018b04ddba9bd365138927efdbfd3af1dfdab25518fa1ccfbc3a&=&format=webp&quality=lossless&width=531&height=54)
 ### Without Date
-![Sample](https://prnt.sc/_SKCptopvwU9)
+![Sample](https://media.discordapp.net/attachments/992392506266366042/1223739464132595752/Screenshot_2.png?ex=661af330&is=66087e30&hm=eb86483b417a5bbb29686854d93a7450824b9af4ae06892e62cc39dd2055c524&=&format=webp&quality=lossless&width=389&height=56)
 
 ## License
 
@@ -63,6 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Remii - [Homepage](https://fypmoon.org)
-Discord - [Add Me As Friends](https://discord.com/invite/dkgSkb5M)
+Remii - [Homepage](https://fypmoon.org) <br>
+Discord - [Add Me As Friends](https://discord.com/invite/dkgSkb5M) <br>
 GitHub - [View On GitHub](https://github.com/oneofremii)
