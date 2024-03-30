@@ -66,3 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Remii - [Homepage](https://fypmoon.org) <br>
 Discord - [Add Me As Friends](https://discord.com/invite/dkgSkb5M) <br>
 GitHub - [View On GitHub](https://github.com/oneofremii)
+
+#### Credits
+- chalk
+- clear

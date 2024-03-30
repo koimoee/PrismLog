@@ -18,7 +18,7 @@
     "package.json",
     "tsconfig.json"
   ],  
-  "author": "rtkymi",
+  "author": "karisuu",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
